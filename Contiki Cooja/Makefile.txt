@@ -1,0 +1,21 @@
+CONTIKI_PROJECT = led
+all: $(CONTIKI_PROJECT)
+
+
+PROJECT_SOURCEFILES += counter.c
+
+
+CONTIKI = ../..
+all:led2.c
+include $(CONTIKI)/Makefile.include
+
+
+
+
+
+
+
+
+
+
+
