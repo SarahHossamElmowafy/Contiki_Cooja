@@ -1,0 +1,354 @@
+00:00.236	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.236	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:00.236	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:00.236	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.236	ID:2	[INFO: Main      ] Node ID: 2
+00:00.236	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+00:00.236	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+00:00.250	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.250	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:00.250	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:00.250	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.250	ID:6	[INFO: Main      ] Node ID: 6
+00:00.250	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+00:00.250	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+00:00.348	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.348	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:00.348	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:00.348	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.348	ID:4	[INFO: Main      ] Node ID: 4
+00:00.348	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+00:00.348	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+00:00.382	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.382	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:00.382	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:00.382	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.382	ID:1	[INFO: Main      ] Node ID: 1
+00:00.382	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+00:00.382	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+00:00.715	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.715	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:00.715	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:00.715	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.715	ID:5	[INFO: Main      ] Node ID: 5
+00:00.715	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+00:00.715	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+00:00.899	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.899	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:00.899	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:00.899	ID:3	[INFO: Main      ] - MAC: CSMA
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.899	ID:3	[INFO: Main      ] Node ID: 3
+00:00.899	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+00:00.899	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+00:30.236	ID:2	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.250	ID:6	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.259	ID:1	[INFO: Controller] #0 Temperature: 22.039919, Humidity: 35.314243, Pressure: 88881.757812
+00:30.277	ID:1	[INFO: Controller] #0 Temperature: 19.936319, Humidity: 34.878464, Pressure: 88880.085938
+00:30.348	ID:4	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.389	ID:1	[INFO: Controller] #0 Temperature: 21.735485, Humidity: 36.398315, Pressure: 88879.843750
+00:30.715	ID:5	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.755	ID:1	[INFO: Controller] #0 Temperature: 22.616833, Humidity: 36.851501, Pressure: 88878.265625
+00:30.899	ID:3	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.929	ID:1	[INFO: Controller] #0 Temperature: 20.938187, Humidity: 35.434803, Pressure: 88880.093750
+01:00.237	ID:2	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.251	ID:6	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.251	ID:1	[INFO: Controller] #1 Temperature: 22.277458, Humidity: 36.163578, Pressure: 88878.554688
+01:00.275	ID:1	[INFO: Controller] #1 Temperature: 21.064360, Humidity: 35.847149, Pressure: 88880.882812
+01:00.349	ID:4	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.370	ID:1	[INFO: Controller] #1 Temperature: 22.946976, Humidity: 34.813797, Pressure: 88879.625000
+01:00.716	ID:5	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.756	ID:1	[INFO: Controller] #1 Temperature: 23.597692, Humidity: 34.488197, Pressure: 88880.195312
+01:00.900	ID:3	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.927	ID:1	[INFO: Controller] #1 Temperature: 21.291075, Humidity: 36.647984, Pressure: 88879.843750
+01:30.238	ID:2	[INFO: Sensor    ] Sending collected data #2 to fd00::201:1:1:1
+01:30.251	ID:6	[INFO: Sensor    ] Sending collected data #2 to fd00::201:1:1:1
+01:30.268	ID:1	[INFO: Controller] #2 Temperature: 21.305361, Humidity: 35.750156, Pressure: 88880.906250
+01:30.271	ID:1	[INFO: Controller] #2 Temperature: 22.437315, Humidity: 34.540688, Pressure: 88880.289062
+01:30.350	ID:4	[INFO: Sensor    ] Sending collected data #2 to fd00::201:1:1:1
+01:30.388	ID:1	[INFO: Controller] #2 Temperature: 21.164263, Humidity: 35.879997, Pressure: 88879.203125
+01:30.717	ID:5	[INFO: Sensor    ] Sending collected data #2 to fd00::201:1:1:1
+01:30.755	ID:1	[INFO: Controller] #2 Temperature: 20.368029, Humidity: 34.931202, Pressure: 88878.921875
+01:30.901	ID:3	[INFO: Sensor    ] Sending collected data #2 to fd00::201:1:1:1
+01:30.908	ID:1	[INFO: Controller] #2 Temperature: 23.227089, Humidity: 34.964912, Pressure: 88880.070312
+02:00.239	ID:2	[INFO: Sensor    ] Sending collected data #3 to fd00::201:1:1:1
+02:00.252	ID:6	[INFO: Sensor    ] Sending collected data #3 to fd00::201:1:1:1
+02:00.257	ID:1	[INFO: Controller] #3 Temperature: 22.290470, Humidity: 34.970333, Pressure: 88881.601562
+02:00.272	ID:1	[INFO: Controller] #3 Temperature: 24.169687, Humidity: 34.426132, Pressure: 88879.046875
+02:00.351	ID:4	[INFO: Sensor    ] Sending collected data #3 to fd00::201:1:1:1
+02:00.390	ID:1	[INFO: Controller] #3 Temperature: 22.680941, Humidity: 34.099148, Pressure: 88879.945312
+02:00.718	ID:5	[INFO: Sensor    ] Sending collected data #3 to fd00::201:1:1:1
+02:00.731	ID:1	[INFO: Controller] #3 Temperature: 22.891792, Humidity: 36.824520, Pressure: 88880.039062
+02:00.902	ID:3	[INFO: Sensor    ] Sending collected data #3 to fd00::201:1:1:1
+02:00.927	ID:1	[INFO: Controller] #3 Temperature: 23.494024, Humidity: 34.375923, Pressure: 88880.500000
+02:30.240	ID:2	[INFO: Sensor    ] Sending collected data #4 to fd00::201:1:1:1
+02:30.253	ID:6	[INFO: Sensor    ] Sending collected data #4 to fd00::201:1:1:1
+02:30.279	ID:1	[INFO: Controller] #4 Temperature: 21.793781, Humidity: 34.236065, Pressure: 88880.109375
+02:30.297	ID:1	[INFO: Controller] #4 Temperature: 21.669643, Humidity: 35.962128, Pressure: 88880.421875
+02:30.352	ID:4	[INFO: Sensor    ] Sending collected data #4 to fd00::201:1:1:1
+02:30.378	ID:1	[INFO: Controller] #4 Temperature: 21.982204, Humidity: 34.177616, Pressure: 88880.289062
+02:30.719	ID:5	[INFO: Sensor    ] Sending collected data #4 to fd00::201:1:1:1
+02:30.724	ID:1	[INFO: Controller] #4 Temperature: 22.538349, Humidity: 34.039635, Pressure: 88880.726562
+02:30.903	ID:3	[INFO: Sensor    ] Sending collected data #4 to fd00::201:1:1:1
+02:30.947	ID:1	[INFO: Controller] #4 Temperature: 22.410851, Humidity: 35.971218, Pressure: 88880.851562
+03:00.241	ID:2	[INFO: Sensor    ] Sending collected data #5 to fd00::201:1:1:1
+03:00.249	ID:1	[INFO: Controller] #5 Temperature: 21.142162, Humidity: 34.972153, Pressure: 88880.171875
+03:00.254	ID:6	[INFO: Sensor    ] Sending collected data #5 to fd00::201:1:1:1
+03:00.272	ID:1	[INFO: Controller] #5 Temperature: 22.745583, Humidity: 34.894405, Pressure: 88879.601562
+03:00.353	ID:4	[INFO: Sensor    ] Sending collected data #5 to fd00::201:1:1:1
+03:00.381	ID:1	[INFO: Controller] #5 Temperature: 21.579205, Humidity: 35.868572, Pressure: 88881.351562
+03:00.720	ID:5	[INFO: Sensor    ] Sending collected data #5 to fd00::201:1:1:1
+03:00.734	ID:1	[INFO: Controller] #5 Temperature: 22.216026, Humidity: 36.168396, Pressure: 88881.421875
+03:00.904	ID:3	[INFO: Sensor    ] Sending collected data #5 to fd00::201:1:1:1
+03:00.946	ID:1	[INFO: Controller] #5 Temperature: 22.450018, Humidity: 35.226891, Pressure: 88879.875000
+03:30.242	ID:2	[INFO: Sensor    ] Sending collected data #6 to fd00::201:1:1:1
+03:30.254	ID:1	[INFO: Controller] #6 Temperature: 22.084259, Humidity: 35.559757, Pressure: 88879.125000
+03:30.255	ID:6	[INFO: Sensor    ] Sending collected data #6 to fd00::201:1:1:1
+03:30.273	ID:1	[INFO: Controller] #6 Temperature: 21.861929, Humidity: 35.011833, Pressure: 88880.109375
+03:30.354	ID:4	[INFO: Sensor    ] Sending collected data #6 to fd00::201:1:1:1
+03:30.386	ID:1	[INFO: Controller] #6 Temperature: 22.058964, Humidity: 35.406197, Pressure: 88880.703125
+03:30.721	ID:5	[INFO: Sensor    ] Sending collected data #6 to fd00::201:1:1:1
+03:30.751	ID:1	[INFO: Controller] #6 Temperature: 22.944563, Humidity: 34.683594, Pressure: 88879.726562
+03:30.905	ID:3	[INFO: Sensor    ] Sending collected data #6 to fd00::201:1:1:1
+03:30.938	ID:1	[INFO: Controller] #6 Temperature: 21.249224, Humidity: 34.434441, Pressure: 88879.812500
+04:00.243	ID:2	[INFO: Sensor    ] Sending collected data #7 to fd00::201:1:1:1
+04:00.256	ID:6	[INFO: Sensor    ] Sending collected data #7 to fd00::201:1:1:1
+04:00.271	ID:1	[INFO: Controller] #7 Temperature: 22.000879, Humidity: 35.362144, Pressure: 88880.687500
+04:00.280	ID:1	[INFO: Controller] #7 Temperature: 22.034578, Humidity: 36.625805, Pressure: 88880.546875
+04:00.355	ID:4	[INFO: Sensor    ] Sending collected data #7 to fd00::201:1:1:1
+04:00.400	ID:1	[INFO: Controller] #7 Temperature: 20.951319, Humidity: 37.063519, Pressure: 88879.601562
+04:00.722	ID:5	[INFO: Sensor    ] Sending collected data #7 to fd00::201:1:1:1
+04:00.749	ID:1	[INFO: Controller] #7 Temperature: 21.593479, Humidity: 34.983799, Pressure: 88878.375000
+04:00.906	ID:3	[INFO: Sensor    ] Sending collected data #7 to fd00::201:1:1:1
+04:00.917	ID:1	[INFO: Controller] #7 Temperature: 22.242506, Humidity: 35.582829, Pressure: 88880.218750
+04:30.244	ID:2	[INFO: Sensor    ] Sending collected data #8 to fd00::201:1:1:1
+04:30.257	ID:6	[INFO: Sensor    ] Sending collected data #8 to fd00::201:1:1:1
+04:30.273	ID:1	[INFO: Controller] #8 Temperature: 21.372490, Humidity: 35.676094, Pressure: 88880.515625
+04:30.288	ID:1	[INFO: Controller] #8 Temperature: 21.218182, Humidity: 33.392883, Pressure: 88879.820312
+04:30.356	ID:4	[INFO: Sensor    ] Sending collected data #8 to fd00::201:1:1:1
+04:30.361	ID:1	[INFO: Controller] #8 Temperature: 22.368746, Humidity: 33.921799, Pressure: 88881.164062
+04:30.723	ID:5	[INFO: Sensor    ] Sending collected data #8 to fd00::201:1:1:1
+04:30.738	ID:1	[INFO: Controller] #8 Temperature: 22.466696, Humidity: 35.489849, Pressure: 88879.554688
+04:30.907	ID:3	[INFO: Sensor    ] Sending collected data #8 to fd00::201:1:1:1
+04:30.928	ID:1	[INFO: Controller] #8 Temperature: 22.562267, Humidity: 34.044308, Pressure: 88880.664062
+05:00.245	ID:2	[INFO: Sensor    ] Sending collected data #9 to fd00::201:1:1:1
+05:00.252	ID:1	[INFO: Controller] #9 Temperature: 23.081972, Humidity: 34.799789, Pressure: 88880.539062
+05:00.258	ID:6	[INFO: Sensor    ] Sending collected data #9 to fd00::201:1:1:1
+05:00.268	ID:1	[INFO: Controller] #9 Temperature: 21.910721, Humidity: 33.626675, Pressure: 88879.437500
+05:00.357	ID:4	[INFO: Sensor    ] Sending collected data #9 to fd00::201:1:1:1
+05:00.370	ID:1	[INFO: Controller] #9 Temperature: 21.887863, Humidity: 34.452652, Pressure: 88879.992188
+05:00.724	ID:5	[INFO: Sensor    ] Sending collected data #9 to fd00::201:1:1:1
+05:00.733	ID:1	[INFO: Controller] #9 Temperature: 22.731424, Humidity: 34.004219, Pressure: 88878.437500
+05:00.908	ID:3	[INFO: Sensor    ] Sending collected data #9 to fd00::201:1:1:1
+05:00.939	ID:1	[INFO: Controller] #9 Temperature: 22.988337, Humidity: 34.765594, Pressure: 88878.882812
+05:30.246	ID:2	[INFO: Sensor    ] Sending collected data #10 to fd00::201:1:1:1
+05:30.255	ID:1	[INFO: Controller] #10 Temperature: 21.930321, Humidity: 35.275074, Pressure: 88879.960938
+05:30.259	ID:6	[INFO: Sensor    ] Sending collected data #10 to fd00::201:1:1:1
+05:30.292	ID:1	[INFO: Controller] #10 Temperature: 21.583576, Humidity: 34.645748, Pressure: 88878.750000
+05:30.358	ID:4	[INFO: Sensor    ] Sending collected data #10 to fd00::201:1:1:1
+05:30.397	ID:1	[INFO: Controller] #10 Temperature: 21.459900, Humidity: 34.401756, Pressure: 88879.757812
+05:30.725	ID:5	[INFO: Sensor    ] Sending collected data #10 to fd00::201:1:1:1
+05:30.730	ID:1	[INFO: Controller] #10 Temperature: 21.077105, Humidity: 34.909103, Pressure: 88880.765625
+05:30.909	ID:3	[INFO: Sensor    ] Sending collected data #10 to fd00::201:1:1:1
+05:30.935	ID:1	[INFO: Controller] #10 Temperature: 20.465469, Humidity: 34.749161, Pressure: 88879.148438
+06:00.247	ID:2	[INFO: Sensor    ] Sending collected data #11 to fd00::201:1:1:1
+06:00.260	ID:6	[INFO: Sensor    ] Sending collected data #11 to fd00::201:1:1:1
+06:00.263	ID:1	[INFO: Controller] #11 Temperature: 23.165466, Humidity: 34.528141, Pressure: 88880.304688
+06:00.298	ID:1	[INFO: Controller] #11 Temperature: 21.893993, Humidity: 35.271065, Pressure: 88879.453125
+06:00.359	ID:4	[INFO: Sensor    ] Sending collected data #11 to fd00::201:1:1:1
+06:00.383	ID:1	[INFO: Controller] #11 Temperature: 21.119501, Humidity: 34.315353, Pressure: 88878.968750
+06:00.726	ID:5	[INFO: Sensor    ] Sending collected data #11 to fd00::201:1:1:1
+06:00.749	ID:1	[INFO: Controller] #11 Temperature: 22.200235, Humidity: 36.385765, Pressure: 88879.335938
+06:00.910	ID:3	[INFO: Sensor    ] Sending collected data #11 to fd00::201:1:1:1
+06:00.934	ID:1	[INFO: Controller] #11 Temperature: 22.800652, Humidity: 35.209373, Pressure: 88879.914062
+06:30.248	ID:2	[INFO: Sensor    ] Sending collected data #12 to fd00::201:1:1:1
+06:30.261	ID:6	[INFO: Sensor    ] Sending collected data #12 to fd00::201:1:1:1
+06:30.287	ID:1	[INFO: Controller] #12 Temperature: 21.098372, Humidity: 35.220512, Pressure: 88879.789062
+06:30.305	ID:1	[INFO: Controller] #12 Temperature: 22.002239, Humidity: 35.184067, Pressure: 88878.960938
+06:30.360	ID:4	[INFO: Sensor    ] Sending collected data #12 to fd00::201:1:1:1
+06:30.385	ID:1	[INFO: Controller] #12 Temperature: 22.361876, Humidity: 34.588058, Pressure: 88880.250000
+06:30.727	ID:5	[INFO: Sensor    ] Sending collected data #12 to fd00::201:1:1:1
+06:30.772	ID:1	[INFO: Controller] #12 Temperature: 21.497715, Humidity: 33.870579, Pressure: 88880.507812
+06:30.911	ID:3	[INFO: Sensor    ] Sending collected data #12 to fd00::201:1:1:1
+06:30.944	ID:1	[INFO: Controller] #12 Temperature: 22.589153, Humidity: 34.003815, Pressure: 88881.742188
+07:00.249	ID:2	[INFO: Sensor    ] Sending collected data #13 to fd00::201:1:1:1
+07:00.262	ID:6	[INFO: Sensor    ] Sending collected data #13 to fd00::201:1:1:1
+07:00.279	ID:1	[INFO: Controller] #13 Temperature: 23.718876, Humidity: 36.940464, Pressure: 88880.968750
+07:00.361	ID:4	[INFO: Sensor    ] Sending collected data #13 to fd00::201:1:1:1
+07:00.367	ID:1	[INFO: Controller] #13 Temperature: 20.384985, Humidity: 36.078682, Pressure: 88878.867188
+07:00.376	ID:1	[INFO: Controller] #13 Temperature: 22.115208, Humidity: 34.493477, Pressure: 88881.234375
+07:00.728	ID:5	[INFO: Sensor    ] Sending collected data #13 to fd00::201:1:1:1
+07:00.770	ID:1	[INFO: Controller] #13 Temperature: 22.519976, Humidity: 34.668949, Pressure: 88879.539062
+07:00.912	ID:3	[INFO: Sensor    ] Sending collected data #13 to fd00::201:1:1:1
+07:00.919	ID:1	[INFO: Controller] #13 Temperature: 22.415522, Humidity: 36.292149, Pressure: 88879.437500
+07:30.250	ID:2	[INFO: Sensor    ] Sending collected data #14 to fd00::201:1:1:1
+07:30.263	ID:6	[INFO: Sensor    ] Sending collected data #14 to fd00::201:1:1:1
+07:30.282	ID:1	[INFO: Controller] #14 Temperature: 21.113619, Humidity: 34.986679, Pressure: 88880.437500
+07:30.321	ID:1	[INFO: Controller] #14 Temperature: 21.349913, Humidity: 35.156849, Pressure: 88880.625000
+07:30.362	ID:4	[INFO: Sensor    ] Sending collected data #14 to fd00::201:1:1:1
+07:30.378	ID:1	[INFO: Controller] #14 Temperature: 20.505857, Humidity: 36.665527, Pressure: 88879.187500
+07:30.729	ID:5	[INFO: Sensor    ] Sending collected data #14 to fd00::201:1:1:1
+07:30.756	ID:1	[INFO: Controller] #14 Temperature: 21.245497, Humidity: 34.894066, Pressure: 88879.421875
+07:30.913	ID:3	[INFO: Sensor    ] Sending collected data #14 to fd00::201:1:1:1
+07:30.919	ID:1	[INFO: Controller] #14 Temperature: 21.497797, Humidity: 33.741196, Pressure: 88879.687500
+08:00.251	ID:2	[INFO: Sensor    ] Sending collected data #15 to fd00::201:1:1:1
+08:00.264	ID:6	[INFO: Sensor    ] Sending collected data #15 to fd00::201:1:1:1
+08:00.266	ID:1	[INFO: Controller] #15 Temperature: 21.231731, Humidity: 35.561546, Pressure: 88878.640625
+08:00.285	ID:1	[INFO: Controller] #15 Temperature: 21.182251, Humidity: 35.152748, Pressure: 88879.554688
+08:00.363	ID:4	[INFO: Sensor    ] Sending collected data #15 to fd00::201:1:1:1
+08:00.403	ID:1	[INFO: Controller] #15 Temperature: 22.789886, Humidity: 36.069721, Pressure: 88879.234375
+08:00.730	ID:5	[INFO: Sensor    ] Sending collected data #15 to fd00::201:1:1:1
+08:00.748	ID:1	[INFO: Controller] #15 Temperature: 22.278564, Humidity: 35.799767, Pressure: 88876.437500
+08:00.914	ID:3	[INFO: Sensor    ] Sending collected data #15 to fd00::201:1:1:1
+08:00.919	ID:1	[INFO: Controller] #15 Temperature: 20.528030, Humidity: 36.467594, Pressure: 88880.507812
+08:30.252	ID:2	[INFO: Sensor    ] Sending collected data #16 to fd00::201:1:1:1
+08:30.264	ID:6	[INFO: Sensor    ] Sending collected data #16 to fd00::201:1:1:1
+08:30.275	ID:1	[INFO: Controller] #16 Temperature: 22.112432, Humidity: 34.968590, Pressure: 88881.367188
+08:30.283	ID:1	[INFO: Controller] #16 Temperature: 20.872696, Humidity: 33.527287, Pressure: 88878.921875
+08:30.364	ID:4	[INFO: Sensor    ] Sending collected data #16 to fd00::201:1:1:1
+08:30.404	ID:1	[INFO: Controller] #16 Temperature: 22.047787, Humidity: 34.820278, Pressure: 88880.859375
+08:30.731	ID:5	[INFO: Sensor    ] Sending collected data #16 to fd00::201:1:1:1
+08:30.746	ID:1	[INFO: Controller] #16 Temperature: 21.898014, Humidity: 34.840195, Pressure: 88880.054688
+08:30.915	ID:3	[INFO: Sensor    ] Sending collected data #16 to fd00::201:1:1:1
+08:30.922	ID:1	[INFO: Controller] #16 Temperature: 21.653353, Humidity: 34.314644, Pressure: 88879.429688
+09:00.253	ID:2	[INFO: Sensor    ] Sending collected data #17 to fd00::201:1:1:1
+09:00.262	ID:1	[INFO: Controller] #17 Temperature: 22.565912, Humidity: 35.076229, Pressure: 88879.570312
+09:00.265	ID:6	[INFO: Sensor    ] Sending collected data #17 to fd00::201:1:1:1
+09:00.302	ID:1	[INFO: Controller] #17 Temperature: 22.801416, Humidity: 32.823212, Pressure: 88880.671875
+09:00.365	ID:4	[INFO: Sensor    ] Sending collected data #17 to fd00::201:1:1:1
+09:00.376	ID:1	[INFO: Controller] #17 Temperature: 21.499247, Humidity: 35.726910, Pressure: 88879.789062
+09:00.732	ID:5	[INFO: Sensor    ] Sending collected data #17 to fd00::201:1:1:1
+09:00.754	ID:1	[INFO: Controller] #17 Temperature: 22.119322, Humidity: 34.598473, Pressure: 88880.773438
+09:00.916	ID:3	[INFO: Sensor    ] Sending collected data #17 to fd00::201:1:1:1
+09:00.954	ID:1	[INFO: Controller] #17 Temperature: 22.221088, Humidity: 34.814816, Pressure: 88879.289062
+09:30.254	ID:2	[INFO: Sensor    ] Sending collected data #18 to fd00::201:1:1:1
+09:30.260	ID:1	[INFO: Controller] #18 Temperature: 23.282032, Humidity: 35.498867, Pressure: 88879.414062
+09:30.266	ID:6	[INFO: Sensor    ] Sending collected data #18 to fd00::201:1:1:1
+09:30.284	ID:1	[INFO: Controller] #18 Temperature: 22.767414, Humidity: 35.252712, Pressure: 88879.539062
+09:30.366	ID:4	[INFO: Sensor    ] Sending collected data #18 to fd00::201:1:1:1
+09:30.394	ID:1	[INFO: Controller] #18 Temperature: 23.299635, Humidity: 34.231937, Pressure: 88880.007812
+09:30.733	ID:5	[INFO: Sensor    ] Sending collected data #18 to fd00::201:1:1:1
+09:30.744	ID:1	[INFO: Controller] #18 Temperature: 21.724955, Humidity: 34.277817, Pressure: 88879.890625
+09:30.917	ID:3	[INFO: Sensor    ] Sending collected data #18 to fd00::201:1:1:1
+09:30.946	ID:1	[INFO: Controller] #18 Temperature: 21.676737, Humidity: 35.387276, Pressure: 88879.625000
+10:00.255	ID:2	[INFO: Sensor    ] Sending collected data #19 to fd00::201:1:1:1
+10:00.260	ID:1	[INFO: Controller] #19 Temperature: 21.809464, Humidity: 35.358383, Pressure: 88879.789062
+10:00.267	ID:6	[INFO: Sensor    ] Sending collected data #19 to fd00::201:1:1:1
+10:00.286	ID:1	[INFO: Controller] #19 Temperature: 22.454519, Humidity: 35.010105, Pressure: 88880.320312
+10:00.367	ID:4	[INFO: Sensor    ] Sending collected data #19 to fd00::201:1:1:1
+10:00.382	ID:1	[INFO: Controller] #19 Temperature: 20.599546, Humidity: 33.653820, Pressure: 88881.492188
+10:00.734	ID:5	[INFO: Sensor    ] Sending collected data #19 to fd00::201:1:1:1
+10:00.748	ID:1	[INFO: Controller] #19 Temperature: 21.973028, Humidity: 34.441364, Pressure: 88880.226562
+10:00.918	ID:3	[INFO: Sensor    ] Sending collected data #19 to fd00::201:1:1:1
+10:00.925	ID:1	[INFO: Controller] #19 Temperature: 20.612202, Humidity: 34.803478, Pressure: 88879.882812
+10:30.256	ID:2	[INFO: Sensor    ] Sending collected data #20 to fd00::201:1:1:1
+10:30.268	ID:6	[INFO: Sensor    ] Sending collected data #20 to fd00::201:1:1:1
+10:30.290	ID:1	[INFO: Controller] #20 Temperature: 20.880514, Humidity: 34.783604, Pressure: 88878.820312
+10:30.300	ID:1	[INFO: Controller] #20 Temperature: 22.779427, Humidity: 36.013958, Pressure: 88881.492188
+10:30.368	ID:4	[INFO: Sensor    ] Sending collected data #20 to fd00::201:1:1:1
+10:30.386	ID:1	[INFO: Controller] #20 Temperature: 21.459263, Humidity: 36.470737, Pressure: 88878.867188
+10:30.735	ID:5	[INFO: Sensor    ] Sending collected data #20 to fd00::201:1:1:1
+10:30.757	ID:1	[INFO: Controller] #20 Temperature: 21.912516, Humidity: 35.485817, Pressure: 88879.554688
+10:30.919	ID:3	[INFO: Sensor    ] Sending collected data #20 to fd00::201:1:1:1
+10:30.936	ID:1	[INFO: Controller] #20 Temperature: 23.077236, Humidity: 34.007641, Pressure: 88879.296875
+11:00.257	ID:2	[INFO: Sensor    ] Sending collected data #21 to fd00::201:1:1:1
+11:00.269	ID:6	[INFO: Sensor    ] Sending collected data #21 to fd00::201:1:1:1
+11:00.275	ID:1	[INFO: Controller] #21 Temperature: 23.234949, Humidity: 36.511734, Pressure: 88879.585938
+11:00.289	ID:1	[INFO: Controller] #21 Temperature: 22.817886, Humidity: 35.246410, Pressure: 88880.507812
+11:00.369	ID:4	[INFO: Sensor    ] Sending collected data #21 to fd00::201:1:1:1
+11:00.406	ID:1	[INFO: Controller] #21 Temperature: 21.135725, Humidity: 33.748444, Pressure: 88879.492188
+11:00.736	ID:5	[INFO: Sensor    ] Sending collected data #21 to fd00::201:1:1:1
+11:00.741	ID:1	[INFO: Controller] #21 Temperature: 21.595736, Humidity: 35.956985, Pressure: 88878.593750
+11:00.920	ID:3	[INFO: Sensor    ] Sending collected data #21 to fd00::201:1:1:1
+11:00.935	ID:1	[INFO: Controller] #21 Temperature: 21.536123, Humidity: 36.211639, Pressure: 88880.304688
+11:30.258	ID:2	[INFO: Sensor    ] Sending collected data #22 to fd00::201:1:1:1
+11:30.270	ID:6	[INFO: Sensor    ] Sending collected data #22 to fd00::201:1:1:1
+11:30.300	ID:1	[INFO: Controller] #22 Temperature: 21.715883, Humidity: 34.715435, Pressure: 88879.289062
+11:30.369	ID:1	[INFO: Controller] #22 Temperature: 22.797224, Humidity: 36.231197, Pressure: 88879.109375
+11:30.370	ID:4	[INFO: Sensor    ] Sending collected data #22 to fd00::201:1:1:1
+11:30.411	ID:1	[INFO: Controller] #22 Temperature: 21.271194, Humidity: 34.942204, Pressure: 88880.984375
+11:30.737	ID:5	[INFO: Sensor    ] Sending collected data #22 to fd00::201:1:1:1
+11:30.743	ID:1	[INFO: Controller] #22 Temperature: 22.611563, Humidity: 35.491585, Pressure: 88882.210938
+11:30.921	ID:3	[INFO: Sensor    ] Sending collected data #22 to fd00::201:1:1:1
+11:30.961	ID:1	[INFO: Controller] #22 Temperature: 21.755272, Humidity: 35.461784, Pressure: 88878.320312
+12:00.259	ID:2	[INFO: Sensor    ] Sending collected data #23 to fd00::201:1:1:1
+12:00.271	ID:6	[INFO: Sensor    ] Sending collected data #23 to fd00::201:1:1:1
+12:00.286	ID:1	[INFO: Controller] #23 Temperature: 21.647030, Humidity: 34.680325, Pressure: 88879.351562
+12:00.303	ID:1	[INFO: Controller] #23 Temperature: 21.612989, Humidity: 35.791752, Pressure: 88879.671875
+12:00.371	ID:4	[INFO: Sensor    ] Sending collected data #23 to fd00::201:1:1:1
+12:00.384	ID:1	[INFO: Controller] #23 Temperature: 23.716320, Humidity: 36.362679, Pressure: 88880.070312
+12:00.738	ID:5	[INFO: Sensor    ] Sending collected data #23 to fd00::201:1:1:1
+12:00.753	ID:1	[INFO: Controller] #23 Temperature: 23.309664, Humidity: 34.432064, Pressure: 88879.382812
+12:00.922	ID:3	[INFO: Sensor    ] Sending collected data #23 to fd00::201:1:1:1
+12:00.963	ID:1	[INFO: Controller] #23 Temperature: 21.419178, Humidity: 33.173450, Pressure: 88880.367188
+12:30.260	ID:2	[INFO: Sensor    ] Sending collected data #24 to fd00::201:1:1:1
+12:30.272	ID:6	[INFO: Sensor    ] Sending collected data #24 to fd00::201:1:1:1
+12:30.275	ID:1	[INFO: Controller] #24 Temperature: 22.082800, Humidity: 34.908356, Pressure: 88880.257812
+12:30.317	ID:1	[INFO: Controller] #24 Temperature: 21.540977, Humidity: 35.637375, Pressure: 88878.976562
+12:30.372	ID:4	[INFO: Sensor    ] Sending collected data #24 to fd00::201:1:1:1
+12:30.387	ID:1	[INFO: Controller] #24 Temperature: 22.864765, Humidity: 35.521099, Pressure: 88879.390625
+12:30.739	ID:5	[INFO: Sensor    ] Sending collected data #24 to fd00::201:1:1:1
+12:30.777	ID:1	[INFO: Controller] #24 Temperature: 23.413990, Humidity: 35.566303, Pressure: 88880.023438
+12:30.923	ID:3	[INFO: Sensor    ] Sending collected data #24 to fd00::201:1:1:1
+12:30.928	ID:1	[INFO: Controller] #24 Temperature: 23.158812, Humidity: 32.908089, Pressure: 88880.054688
+13:00.261	ID:2	[INFO: Sensor    ] Sending collected data #25 to fd00::201:1:1:1
+13:00.273	ID:6	[INFO: Sensor    ] Sending collected data #25 to fd00::201:1:1:1
+13:00.275	ID:1	[INFO: Controller] #25 Temperature: 21.787283, Humidity: 35.310322, Pressure: 88879.328125
+13:00.305	ID:1	[INFO: Controller] #25 Temperature: 23.110775, Humidity: 36.251945, Pressure: 88881.609375
+13:00.373	ID:4	[INFO: Sensor    ] Sending collected data #25 to fd00::201:1:1:1
+13:00.390	ID:1	[INFO: Controller] #25 Temperature: 21.778276, Humidity: 34.839069, Pressure: 88880.570312
+13:00.740	ID:5	[INFO: Sensor    ] Sending collected data #25 to fd00::201:1:1:1
+13:00.761	ID:1	[INFO: Controller] #25 Temperature: 21.523300, Humidity: 36.105198, Pressure: 88879.273438
+13:00.924	ID:3	[INFO: Sensor    ] Sending collected data #25 to fd00::201:1:1:1
+13:00.969	ID:1	[INFO: Controller] #25 Temperature: 20.557739, Humidity: 34.206791, Pressure: 88879.695312
+13:30.262	ID:2	[INFO: Sensor    ] Sending collected data #26 to fd00::201:1:1:1
+13:30.273	ID:6	[INFO: Sensor    ] Sending collected data #26 to fd00::201:1:1:1
+13:30.290	ID:1	[INFO: Controller] #26 Temperature: 20.662472, Humidity: 36.628311, Pressure: 88879.867188
+13:30.307	ID:1	[INFO: Controller] #26 Temperature: 20.558382, Humidity: 34.984562, Pressure: 88880.679688
+13:30.374	ID:4	[INFO: Sensor    ] Sending collected data #26 to fd00::201:1:1:1
+13:30.414	ID:1	[INFO: Controller] #26 Temperature: 22.091404, Humidity: 31.984541, Pressure: 88879.109375
+13:30.741	ID:5	[INFO: Sensor    ] Sending collected data #26 to fd00::201:1:1:1
+13:30.781	ID:1	[INFO: Controller] #26 Temperature: 22.070992, Humidity: 34.258045, Pressure: 88879.937500
+13:30.925	ID:3	[INFO: Sensor    ] Sending collected data #26 to fd00::201:1:1:1
+13:30.964	ID:1	[INFO: Controller] #26 Temperature: 22.195578, Humidity: 33.832870, Pressure: 88879.000000
+14:00.263	ID:2	[INFO: Sensor    ] Sending collected data #27 to fd00::201:1:1:1
+14:00.274	ID:6	[INFO: Sensor    ] Sending collected data #27 to fd00::201:1:1:1
+14:00.291	ID:1	[INFO: Controller] #27 Temperature: 20.853811, Humidity: 35.300747, Pressure: 88880.515625
+14:00.294	ID:1	[INFO: Controller] #27 Temperature: 21.584869, Humidity: 34.255451, Pressure: 88879.781250
+14:00.375	ID:4	[INFO: Sensor    ] Sending collected data #27 to fd00::201:1:1:1
+14:00.408	ID:1	[INFO: Controller] #27 Temperature: 21.326607, Humidity: 34.915516, Pressure: 88879.781250
+14:00.742	ID:5	[INFO: Sensor    ] Sending collected data #27 to fd00::201:1:1:1
+14:00.784	ID:1	[INFO: Controller] #27 Temperature: 22.064440, Humidity: 36.086437, Pressure: 88879.234375
+14:00.926	ID:3	[INFO: Sensor    ] Sending collected data #27 to fd00::201:1:1:1
+14:00.940	ID:1	[INFO: Controller] #27 Temperature: 21.596306, Humidity: 36.311039, Pressure: 88879.789062
+14:30.264	ID:2	[INFO: Sensor    ] Sending collected data #28 to fd00::201:1:1:1
+14:30.274	ID:1	[INFO: Controller] #28 Temperature: 22.239357, Humidity: 34.861622, Pressure: 88879.804688
+14:30.275	ID:6	[INFO: Sensor    ] Sending collected data #28 to fd00::201:1:1:1
+14:30.283	ID:1	[INFO: Controller] #28 Temperature: 23.814281, Humidity: 34.462257, Pressure: 88880.570312
+14:30.376	ID:4	[INFO: Sensor    ] Sending collected data #28 to fd00::201:1:1:1
+14:30.383	ID:1	[INFO: Controller] #28 Temperature: 20.566288, Humidity: 35.601326, Pressure: 88879.250000
+14:30.743	ID:5	[INFO: Sensor    ] Sending collected data #28 to fd00::201:1:1:1
+14:30.761	ID:1	[INFO: Controller] #28 Temperature: 19.771900, Humidity: 35.621319, Pressure: 88881.460938
+14:30.927	ID:3	[INFO: Sensor    ] Sending collected data #28 to fd00::201:1:1:1
+14:30.951	ID:1	[INFO: Controller] #28 Temperature: 22.741207, Humidity: 35.075455, Pressure: 88879.515625
+15:00.265	ID:2	[INFO: Sensor    ] Sending collected data #29 to fd00::201:1:1:1
+15:00.276	ID:6	[INFO: Sensor    ] Sending collected data #29 to fd00::201:1:1:1
+15:00.289	ID:1	[INFO: Controller] #29 Temperature: 21.538050, Humidity: 35.350777, Pressure: 88880.976562
+15:00.312	ID:1	[INFO: Controller] #29 Temperature: 21.479883, Humidity: 34.720997, Pressure: 88879.953125
+15:00.377	ID:4	[INFO: Sensor    ] Sending collected data #29 to fd00::201:1:1:1
+15:00.397	ID:1	[INFO: Controller] #29 Temperature: 22.794361, Humidity: 34.884663, Pressure: 88879.773438
+15:00.744	ID:5	[INFO: Sensor    ] Sending collected data #29 to fd00::201:1:1:1
+15:00.761	ID:1	[INFO: Controller] #29 Temperature: 21.483900, Humidity: 33.911430, Pressure: 88880.726562
+15:00.928	ID:3	[INFO: Sensor    ] Sending collected data #29 to fd00::201:1:1:1
+15:00.967	ID:1	[INFO: Controller] #29 Temperature: 21.493626, Humidity: 35.703560, Pressure: 88879.101562
