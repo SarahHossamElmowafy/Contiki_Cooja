@@ -1,0 +1,74 @@
+00:00.236	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.236	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:00.236	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:00.236	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.236	ID:2	[INFO: Main      ] Node ID: 2
+00:00.236	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+00:00.236	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+00:00.250	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.250	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:00.250	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:00.250	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.250	ID:6	[INFO: Main      ] Node ID: 6
+00:00.250	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+00:00.250	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+00:00.348	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.348	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:00.348	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:00.348	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.348	ID:4	[INFO: Main      ] Node ID: 4
+00:00.348	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+00:00.348	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+00:00.382	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.382	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:00.382	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:00.382	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.382	ID:1	[INFO: Main      ] Node ID: 1
+00:00.382	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+00:00.382	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+00:00.715	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.715	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:00.715	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:00.715	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.715	ID:5	[INFO: Main      ] Node ID: 5
+00:00.715	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+00:00.715	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+00:00.899	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.7-3-gf608483c5-dirty
+00:00.899	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:00.899	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:00.899	ID:3	[INFO: Main      ] - MAC: CSMA
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.899	ID:3	[INFO: Main      ] Node ID: 3
+00:00.899	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+00:00.899	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+00:30.236	ID:2	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.250	ID:6	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.259	ID:1	[INFO: Controller] #0 Temperature: 22.039919, Humidity: 35.314243, Pressure: 88881.757812
+00:30.277	ID:1	[INFO: Controller] #0 Temperature: 19.936319, Humidity: 34.878464, Pressure: 88880.085938
+00:30.348	ID:4	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.389	ID:1	[INFO: Controller] #0 Temperature: 21.735485, Humidity: 36.398315, Pressure: 88879.843750
+00:30.715	ID:5	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.755	ID:1	[INFO: Controller] #0 Temperature: 22.616833, Humidity: 36.851501, Pressure: 88878.265625
+00:30.899	ID:3	[INFO: Sensor    ] Sending collected data #0 to fd00::201:1:1:1
+00:30.929	ID:1	[INFO: Controller] #0 Temperature: 20.938187, Humidity: 35.434803, Pressure: 88880.093750
+01:00.237	ID:2	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.251	ID:6	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.251	ID:1	[INFO: Controller] #1 Temperature: 22.277458, Humidity: 36.163578, Pressure: 88878.554688
+01:00.275	ID:1	[INFO: Controller] #1 Temperature: 21.064360, Humidity: 35.847149, Pressure: 88880.882812
+01:00.349	ID:4	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.370	ID:1	[INFO: Controller] #1 Temperature: 22.946976, Humidity: 34.813797, Pressure: 88879.625000
+01:00.716	ID:5	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.756	ID:1	[INFO: Controller] #1 Temperature: 23.597692, Humidity: 34.488197, Pressure: 88880.195312
+01:00.900	ID:3	[INFO: Sensor    ] Sending collected data #1 to fd00::201:1:1:1
+01:00.927	ID:1	[INFO: Controller] #1 Temperature: 21.291075, Humidity: 36.647984, Pressure: 88879.843750
